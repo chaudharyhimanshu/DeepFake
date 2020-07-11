@@ -1,0 +1,14 @@
+CapstoneApp/DeepFake/node_modules/**/*
+CapstoneApp/DeepFake/.expo/*
+CapstoneApp/DeepFake/npm-debug.*
+CapstoneApp/DeepFake/*.jks
+CapstoneApp/DeepFake/*.p8
+CapstoneApp/DeepFake/*.p12
+CapstoneApp/DeepFake/*.key
+CapstoneApp/DeepFake/*.mobileprovision
+CapstoneApp/DeepFake/*.orig.*
+CapstoneApp/DeepFake/web-build/
+CapstoneApp/DeepFake/web-report/
+
+# macOS
+.DS_Store
